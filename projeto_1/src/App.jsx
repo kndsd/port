@@ -34,7 +34,7 @@ function App() {
           <p>Alguns dos trabalhos que desenvolvi no curso:</p>
           <ul>
             <li>
-              <a href="https://github.com/kndsd" target="_blank" rel="noreferrer">
+              <a href="https://https://github.com/kndsd/programacao_app/tree/1-aula="_blank" rel="noreferrer">
                 📁 Projeto  - Sistema de Cadastro
               </a>
             </li>
